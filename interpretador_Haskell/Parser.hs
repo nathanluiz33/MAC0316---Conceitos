@@ -117,7 +117,7 @@ analyze tree = case tree of
         Leaf symbol ->
           case check_ok_symbol symbol of
             True -> symbol
-            False -> "g"
+            False -> "haShInG_a123sado23mk%@#oasd"
             -- False -> error "ERRO analyze: símbolo esperado no lugar de uma expressão"
         _ -> error "ERRO analyze: símbolo esperado no lugar de uma expressão"
 
